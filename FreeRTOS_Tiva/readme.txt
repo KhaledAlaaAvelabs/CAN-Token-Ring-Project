@@ -15,3 +15,12 @@ files.
 
 See the readme file in the FreeRTOS/Source/Portable directory for more 
 information.
+
+
+FreeRTOS_Tiva is our "Project_Name"
+
+files includes:
+1- FreeRTOS_Files folder; include free RTOS implimentaion
+2- GPIO folder include; "GPIO.h, GPIO.c"
+3- CAN folder include; "CAN.h, CAN.c"
+4- Main folder include; main.c
