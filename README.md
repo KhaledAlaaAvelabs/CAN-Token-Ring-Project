@@ -25,7 +25,8 @@ At Normal state:
 • Turn off the led.
 
 
-Project description:
+
+#Project description:
 
 Project_Name: FreeRTOS_Tiva 
 
