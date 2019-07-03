@@ -30,8 +30,11 @@ Project description:
 Project_Name: FreeRTOS_Tiva 
 
 files includes:
-1- FreeRTOS_Files folder; include free RTOS implimentaion
+1- FreeRTOS_Files folder; include free RTOS implimentaion.
+
 2- GPIO folder include; "GPIO.h, GPIO.c"
+
 3- CAN folder include; "CAN.h, CAN.c"
+
 4- Main folder include; main.c
 
